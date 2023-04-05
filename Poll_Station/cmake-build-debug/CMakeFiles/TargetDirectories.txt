@@ -1,3 +1,0 @@
-C:/Users/megsh/OneDrive/Desktop/Prog II/Poll_Station/cmake-build-debug/CMakeFiles/Poll_Station.dir
-C:/Users/megsh/OneDrive/Desktop/Prog II/Poll_Station/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/megsh/OneDrive/Desktop/Prog II/Poll_Station/cmake-build-debug/CMakeFiles/rebuild_cache.dir
